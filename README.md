@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and learn
 I have experience with a variety of technologies and tools. Here are some of my main areas of expertise:
 
 - **Languages**: Python, Java, JavaScript, TypeScript, C++, C, C#
-- **Web Development**: Django, HTML, CSS, JavaScript, React, Next
+- **Web Development**: Django, HTML, CSS, JavaScript, React, Next.js
 - **Machine Learning & AI**: TensorFlow, Keras, Pandas, NumPy
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **Other**: Git, GitHub, SQL
@@ -22,9 +22,11 @@ I'm always looking to expand my knowledge and learn new things. Right now, I'm f
 
 - **Deep Learning** with TensorFlow & Keras
 - **Data Science, Statistics and Data Visualization**
-- **Exploring the world of NextJS**
+- **Exploring the world of Next.js**
 
 ---
+
+## 🚀 Projects
 
 Here are some of the projects I've worked on:
 
@@ -36,7 +38,7 @@ Here are some of the projects I've worked on:
     - Multi-tag and search filter
 
 ### [Alzheimer's Binary Classification AI Model](https://github.com/jeremlee/alzheimers-classification-model)
-- **Description**: A short project about creating a binary classification AI model which predicts if someone has Alzheimer's. Based on a dataset I got from Kaggle.
+- **Description**: A short project about creating a binary classification AI model which predicts if someone has Alzheimer's, based on a dataset from Kaggle.
 - **Technologies**: TensorFlow, Keras
 
 Feel free to explore my repositories for more exciting projects!
@@ -45,13 +47,19 @@ Feel free to explore my repositories for more exciting projects!
 
 ## 🧑‍💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremlee&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremlee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+---
+
+## 📊 More Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremlee&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [your-email@example.com](mailto:jeremybrad6plus1@gmail.com)
+- 📧 Email: [jeremybrad6plus1@gmail.com](mailto:jeremybrad6plus1@gmail.com)
 
 ---
 
