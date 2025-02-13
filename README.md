@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about **technology, coding, and con
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyPlot](https://img.shields.io/badge/PyPlot-150458?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 
 ### **📊 Databases:**
