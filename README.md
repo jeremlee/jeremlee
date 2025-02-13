@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about **technology, coding, and con
 
 ## 🚀 About Me
 
-- 🎯 Passionate about **AI, Web Development, and Open Source**
+- 🎯 Passionate about **Deep Learning, Software Development, and data structures**
 - 📖 Constantly exploring new technologies and frameworks
 - 🌍 Always eager to contribute to meaningful projects
 - 👀 **Profile Views**: ![Profile Views](https://komarev.com/ghpvc/?username=jeremlee&color=blue)
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm passionate about **technology, coding, and con
 
 - **Deep Learning** with TensorFlow & Keras 🧠
 - **Data Science, Statistics & Data Visualization 📊**
-- **Advanced Next.js concepts 🚀**
+- **Next.js concepts 🚀**
 
 ---
 
