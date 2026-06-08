@@ -80,10 +80,6 @@
 
 ---
 
-## GitHub Stats & Activity
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremlee)](https://github.com/anuraghazra/github-readme-stats)
----
-
 ## Contact
 
 - 📧 Email: [jeremybt.lee@gmail.com](mailto:jeremybt.lee@gmail.com)
