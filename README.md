@@ -81,6 +81,15 @@
 
 ---
 
+## Contributions
+
+### [Custom Memory Allocator](https://github.com/jeremlee/custom-memory-allocator)
+- **Description**: The project creates a fixed 10KB array to act as a mini fake heap memory. It uses a Singly Linked List to keep track of this memory. Every time you ask for space, a small "header" node is placed right before your data to store how big the block is and whether it is being used or free.
+- **Forked from**: (https://github.com/shafinalam07/custom-memory-allocator)
+- **My Contribution**: Implemented memory allocation with a given size using the Worst-Fit Memory Allocation algorithm.
+
+---
+
 ## Contact
 
 - 📧 Email: [jeremybt.lee@gmail.com](mailto:jeremybt.lee@gmail.com)
