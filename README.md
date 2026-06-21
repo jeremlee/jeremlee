@@ -6,6 +6,7 @@
 
 -  Bachelor of Science in Computer Science **graduate**
 -  Interested in firmware development
+-  Interested in operating systems
 -  Interested in how AI works internally
 -  **Profile Views**: ![Profile Views](https://komarev.com/ghpvc/?username=jeremlee&color=blue)
 
